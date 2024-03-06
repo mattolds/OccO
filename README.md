@@ -1,6 +1,6 @@
 # OccO
 ```mermaid
-graph RL
+graph RL 
     A(Entity):::BFO --> B(Continuant):::BFO
     A(Entity):::BFO --> O(Occurrent):::BFO
     O(Occurrent):::BFO --> P(Process):::BFO
